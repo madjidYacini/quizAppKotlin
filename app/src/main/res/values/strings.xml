@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">quizzApplication</string>
+    <string name="question_message">Mettez votre question ICI</string>
+    <string name="prop_message">mettez votre prop ICI</string>
+</resources>
